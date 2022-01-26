@@ -1,4 +1,2 @@
 # gh-info
-# gh-info
-# gh-info
-# gh-info
+A quick a dirty github info app, made in node.js
